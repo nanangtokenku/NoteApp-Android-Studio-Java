@@ -1,4 +1,4 @@
-package com.ifa.mynotesapp;
+package id.nalaronline.mynotesapp;
 
 import android.content.Context;
 
@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
 
-        assertEquals("com.ifa.mynotesapp", appContext.getPackageName());
+        assertEquals("com.nalaronline.mynotesapp", appContext.getPackageName());
     }
 }

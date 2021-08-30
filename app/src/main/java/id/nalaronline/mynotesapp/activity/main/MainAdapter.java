@@ -1,4 +1,4 @@
-package com.ifa.mynotesapp.activity.main;
+package id.nalaronline.mynotesapp.activity.main;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -11,7 +11,7 @@ import androidx.cardview.widget.CardView;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.ifa.mynotesapp.R;
-import com.ifa.mynotesapp.model.Note;
+import id.nalaronline.mynotesapp.model.Note;
 
 import java.util.List;
 

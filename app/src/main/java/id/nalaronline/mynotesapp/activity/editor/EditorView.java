@@ -1,4 +1,4 @@
-package com.ifa.mynotesapp.activity.editor;
+package id.nalaronline.mynotesapp.activity.editor;
 
 public interface EditorView {
 

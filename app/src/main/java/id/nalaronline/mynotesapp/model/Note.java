@@ -1,4 +1,4 @@
-package com.ifa.mynotesapp.model;
+package id.nalaronline.mynotesapp.model;
 
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;

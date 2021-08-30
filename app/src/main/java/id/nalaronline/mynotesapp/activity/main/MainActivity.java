@@ -1,4 +1,4 @@
-package com.ifa.mynotesapp.activity.main;
+package id.nalaronline.mynotesapp.activity.main;
 
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
@@ -12,8 +12,8 @@ import android.widget.Toast;
 
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 import com.ifa.mynotesapp.R;
-import com.ifa.mynotesapp.activity.editor.EditorActivity;
-import com.ifa.mynotesapp.model.Note;
+import id.nalaronline.mynotesapp.activity.editor.EditorActivity;
+import id.nalaronline.mynotesapp.model.Note;
 
 import java.util.List;
 

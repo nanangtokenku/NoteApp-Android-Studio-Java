@@ -15,7 +15,7 @@
         android:theme="@style/AppTheme"
         tools:targetApi="m">
 
-        <activity android:name=".activity.main.MainActivity">
+        <activity android:name="id.nalaronline.mynotesapp.activity.main.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <action android:name="android.intent.action.VIEW"/>
@@ -24,7 +24,7 @@
             </intent-filter>
         </activity>
 
-        <activity android:name=".activity.editor.EditorActivity"
+        <activity android:name="id.nalaronline.mynotesapp.activity.editor.EditorActivity"
             android:theme="@style/EditorTheme"
             android:launchMode="singleTask"/>
 

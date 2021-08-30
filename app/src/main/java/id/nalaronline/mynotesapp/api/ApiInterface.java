@@ -1,6 +1,6 @@
-package com.ifa.mynotesapp.api;
+package id.nalaronline.mynotesapp.api;
 
-import com.ifa.mynotesapp.model.Note;
+import id.nalaronline.mynotesapp.model.Note;
 
 import java.util.List;
 

@@ -1,11 +1,10 @@
-package com.ifa.mynotesapp.activity.editor;
+package id.nalaronline.mynotesapp.activity.editor;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.app.AlertDialog;
 import android.app.ProgressDialog;
-import android.content.DialogInterface;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.Menu;
@@ -15,14 +14,7 @@ import android.widget.EditText;
 import android.widget.Toast;
 
 import com.ifa.mynotesapp.R;
-import com.ifa.mynotesapp.api.ApiClient;
-import com.ifa.mynotesapp.api.ApiInterface;
-import com.ifa.mynotesapp.model.Note;
 import com.thebluealliance.spectrum.SpectrumPalette;
-
-import retrofit2.Call;
-import retrofit2.Callback;
-import retrofit2.Response;
 
 public class EditorActivity extends AppCompatActivity implements EditorView {
 

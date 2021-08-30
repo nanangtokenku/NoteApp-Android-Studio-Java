@@ -1,10 +1,10 @@
-package com.ifa.mynotesapp.activity.editor;
+package id.nalaronline.mynotesapp.activity.editor;
 
 import androidx.annotation.NonNull;
 
-import com.ifa.mynotesapp.api.ApiClient;
-import com.ifa.mynotesapp.api.ApiInterface;
-import com.ifa.mynotesapp.model.Note;
+import id.nalaronline.mynotesapp.api.ApiClient;
+import id.nalaronline.mynotesapp.api.ApiInterface;
+import id.nalaronline.mynotesapp.model.Note;
 
 import retrofit2.Call;
 import retrofit2.Callback;

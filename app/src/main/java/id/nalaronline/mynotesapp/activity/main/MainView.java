@@ -1,6 +1,6 @@
-package com.ifa.mynotesapp.activity.main;
+package id.nalaronline.mynotesapp.activity.main;
 
-import com.ifa.mynotesapp.model.Note;
+import id.nalaronline.mynotesapp.model.Note;
 
 import java.util.List;
 

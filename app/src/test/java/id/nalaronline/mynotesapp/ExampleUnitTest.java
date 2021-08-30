@@ -1,4 +1,4 @@
-package com.ifa.mynotesapp;
+package id.nalaronline.mynotesapp;
 
 import org.junit.Test;
 
